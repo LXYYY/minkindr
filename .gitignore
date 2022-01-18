@@ -29,3 +29,7 @@
 
 # Backup files
 *.orig
+
+.ccls-cache
+compile_commands.json
+.vscode
